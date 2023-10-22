@@ -3,4 +3,4 @@
 
 My HTML + CSS website 
 
-https://ru.pinterest.com/pin/get-good-get-gamesense--884675920527308512/
+![Alt text](https://ru.pinterest.com/pin/get-good-get-gamesense--884675920527308512/)
