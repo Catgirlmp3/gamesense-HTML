@@ -1,7 +1,7 @@
 
 /*  style atribute for the .bar that I dont how it compleatly works, but also when I delete it, website auto-destruct | I'm sure it changes the background colour and the padding *\
 .bar
-    header {
+ header {
     position: fixed;
     top: 0;
     left: 0;
@@ -42,8 +42,7 @@
 .content{margin-top:57 px;}
 
 /* style atribute for the .row, so that it makes a table alike structure for the tag | somehow it works without inpputed values *\
-.row {
-  after: "";
+.row:after {
   content: "";
   display: table;
   clear: both;
