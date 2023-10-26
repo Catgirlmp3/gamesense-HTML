@@ -21,9 +21,7 @@
   float: left;
   width: 33.33%;
 }
-.videoWrapper{
-    text-align: center;
-}
+
 .fixed{
  position:fixed;
  top:0;
@@ -32,6 +30,7 @@
  height:100%;
  background-image:url(https://ibb.co/Zz8QfF8);background-repeat: repeat-x; 
 }
+
 .content{margin-top:57px;}
 
 .row:after {
