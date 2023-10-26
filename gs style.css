@@ -35,14 +35,15 @@
  z-index: 1;
  width:100 %;
  height:100 %;
- background-image:url(https://ibb.co/Zz8QfF8);background-repeat: repeat-1; 
+ background-image:url(https://ibb.co/Zz8QfF8);background-repeat: repeat-x; 
 }
 
 /* style atribute that changes the content margin To the top scaled at 57 pixels *\
 .content{margin-top:57 px;}
 
-/* style atribute for the .row, so that it makes a table alike structure for the tag *\
-.row:after {
+/* style atribute for the .row, so that it makes a table alike structure for the tag | somehow it works without inpputed values *\
+.row {
+  after: "";
   content: "";
   display: table;
   clear: both;
