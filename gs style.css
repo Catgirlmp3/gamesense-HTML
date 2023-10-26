@@ -24,22 +24,22 @@
 /* style atribute for a column, floats it To the left and changes width by a set ammount *\
 .column {
   float: left;
-  width: 33.33 %;
+  width: 33.33%;
 }
 
 /* style atribute for the .fixed, sets the fixed position of the rainbow bar at the top of the page *\
 .fixed {
  position:
- fixed;
+ absolute;
  top:0;
  z-index: 1;
- width:100 %;
- height:100 %;
+ width:100%;
+ height:100%;
  background-image:url(https://ibb.co/Zz8QfF8);background-repeat: repeat-x; 
 }
 
 /* style atribute that changes the content margin To the top scaled at 57 pixels *\
-.content{margin-top:57 px;}
+.content{margin-top:57px;}
 
 /* style atribute for the .row, so that it makes a table alike structure for the tag | somehow it works without inpputed values *\
 .row:after {
