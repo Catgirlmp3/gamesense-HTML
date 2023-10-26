@@ -37,7 +37,7 @@
 /* style atribute for the .fixed, sets the fixed position of the rainbow bar at the top of the page *\
 .fixed {
  position:
- absolute;
+ fixed;
  top:0;
  z-index: 1;
  width:100%;
