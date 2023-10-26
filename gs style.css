@@ -6,7 +6,7 @@
   padding: 0px;
   font-size: 0px;
 }
-/*  style atribute for the .bar that I dont how it compleatly works, but also when I delete it, website auto-destruct | I'm sure it changes the background colour and the padding *\
+/*  style atribute for the .bar that I dont how it compleatly works, but also when I delete it, website auto-destruct. I'm sure it changes the background colour and the padding *\
 .bar
  header {
     position: fixed;
@@ -23,9 +23,9 @@
   display: flex;
   justify-content: space-around;
   align-items: flex-start;
-  border: 2 px dashed rgba (114, 186, 94, 0.35);
+  border: 2 px dashed rgba(114, 186, 94, 0.35);
   height: 400 px;
-  background: rgba (114, 186, 94, 0.05);
+  background: rgba(114, 186, 94, 0.05);
 }
 
 /* style atribute for a column, floats it To the left and changes width by a set ammount *\
