@@ -8,3 +8,8 @@ My HTML + CSS website
 https://github.com/Catgirlmp3/gamesense-HTML - github repo
 
 https://catgirlmp3.github.io/gamesense-HTML - github website
+
+https://discord.gg/dR7EE7X43S   marketplace discord server for purchase 
+
+
+(theres no products. dont get ur hopes up)
