@@ -48,7 +48,7 @@
 /*style atribute that changes the content margin To the top scaled at 57 pixels */
 .content{margin-top:57px;}
 
-/*style atribute for the .row, so that it makes a table alike structure for the tag | somehow it works without inpputed values */
+/*style atribute for the .row, so that it makes a table alike structure for the tag | somehow it works without inputed values */
 .row:after {
   content: "";
   display: table;
