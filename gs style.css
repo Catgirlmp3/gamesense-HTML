@@ -1,4 +1,4 @@
- /* adds atributes To the sticky tag */
+  /* adds atributes To the sticky tag */
 .sticky {
   position: fixed;
   top: 0;
@@ -6,7 +6,7 @@
   padding: 0px;
   font-size: 0px;
 }
-/*style atribute for the .bar that I dont how it compleatly works, but also when I delete it, website auto-destruct. I'm sure it changes the background colour and the padding */
+ /*style atribute for the .bar that I dont how it compleatly works, but also when I delete it, website auto-destruct. I'm sure it changes the background colour and the padding */
 .bar
  header {
     position: fixed;
@@ -18,7 +18,7 @@
     padding: 10 px;
   } 
 
-/*another style atribute for the .bar, this time it changes everything... border, height, background colour */
+ /*another style atribute for the .bar, this time it changes everything... border, height, background colour */
 .bar {
   display: flex;
   justify-content: space-around;
@@ -28,13 +28,13 @@
   background: rgba(114, 186, 94, 0.05);
 }
 
-/*style atribute for a column, floats it To the left and changes width by a set ammount */
+ /*style atribute for a column, floats it To the left and changes width by a set ammount */
 .column {
   float: left;
   width: 33.33%;
 }
 
-/*style atribute for the .fixed, sets the fixed position of the rainbow bar at the top of the page */
+ /*style atribute for the .fixed, sets the fixed position of the rainbow bar at the top of the page */
 .fixed {
  position:
  fixed;
@@ -45,10 +45,10 @@
  background-image:url(https://ibb.co/Zz8QfF8);background-repeat: repeat-x; 
 }
 
-/*style atribute that changes the content margin To the top scaled at 57 pixels */
+ /*style atribute that changes the content margin To the top scaled at 57 pixels */
 .content{margin-top:57px;}
 
-/*style atribute for the .row, so that it makes a table alike structure for the tag | somehow it works without inputed values */
+ /*style atribute for the .row, so that it makes a table alike structure for the tag | somehow it works without inputed values */
 .row:after {
   content: "";
   display: table;
