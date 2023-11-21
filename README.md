@@ -17,7 +17,6 @@ https://catgirlmp3.github.io/gamesense-HTML - github website
 
 https://discord.gg/dR7EE7X43S   marketplace discord server for purchase 
 
-<a href="https://ibb.co/CWGCYs4"><img src="https://i.ibb.co/CWGCYs4/ezgif-com-video-to-gif.gif" alt="ezgif-com-video-to-gif" border="0">
-  </a>
+![Alt text](https://ibb.co/CWGCYs4)
 
 (theres no products. dont get ur hopes up)
